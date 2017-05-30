@@ -10,7 +10,7 @@ In modern search engines, personalization introduces potential risk of revealing
 <br><br>Figure: Topic-based Privacy Protection (TPP) Framework
 <p align="center">
 
-### Publication: 
+### Publication
 
 <p align="justify">
 Wasi Uddin Ahmad, Md Masudur Rahman and Hongning Wang. <i>Topic Model based Privacy Protection in Personalized Web Search</i>. The 39th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'16), p1025-1028, 2016. (<a href="http://dl.acm.org/citation.cfm?id=2914753">PDF</a>)
