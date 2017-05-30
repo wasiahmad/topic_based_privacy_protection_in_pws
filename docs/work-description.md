@@ -107,5 +107,5 @@ The entire evaluation procedure on a single user works as follows.
 
 * The model is tested for both personalization and non-personalization settings.
 * Privacy preservation is evaluated through KL-Divergence.
-* All pre-generated data to run the entire pipeline can be found [here](https://github.com/wasiuva/Privacy-Preserving-IR/blob/master/docs/requirements.md#pre-generated-data).
+* All pre-generated data to run the entire pipeline can be found [here](https://github.com/wasiahmad/topic_based_privacy_protection_in_pws/blob/master/docs/requirements.md#pre-generated-data).
 
