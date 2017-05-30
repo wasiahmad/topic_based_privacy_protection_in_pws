@@ -1,0 +1,4 @@
+number of cover queries = 2
+entropy range = 0.2
+client side re-ranking = off
+number of threads = 4
