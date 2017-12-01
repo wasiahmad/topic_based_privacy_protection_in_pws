@@ -6,7 +6,7 @@ In modern search engines, personalization introduces potential risk of revealing
 
 <p align="center">
 <br>
-<img src="https://writelatex.s3.amazonaws.com/qnvzsnjbxqqy/uploads/2/7099126/7.png" width="80%">
+<img src="https://i.imgur.com/i5zjP31.png" width="80%">
 <br><br>Figure: Topic-based Privacy Protection (TPP) Framework
 <p align="center">
 
